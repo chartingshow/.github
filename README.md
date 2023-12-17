@@ -1,1 +1,1 @@
-## Welcome to the Charting Show
+Welcome to the Charting Show
