@@ -13,7 +13,7 @@ xxx
 
 <br>
 
-<p align="center"><img src="https://github.com/chartingshow/.github/blob/master/assets/images/bitcoin-crypto.giff"></p>
+<p align="center"><img src="https://github.com/chartingshow/.github/blob/master/assets/images/bitcoin-crypto.gif"></p>
 
 ## Copyright and License 📄
 
