@@ -17,7 +17,7 @@
 
 <p>Traders of Bitcoin and other cryptocurrencies usually use decentralised exchanges like Pancakeswap and Uniswap, as well as centralised exchanges like Coinbase and Binance. These are the markets where traders get together to exchange goods and track pricing.</p>
 
-<p>Purchasing cryptoassets with the expectation that their value would rise—usually due to news, economic, regulatory, and other events—and selling them for a maximum profit before prices decline is the notion.</p>
+<p>Purchasing cryptoassets with the expectation that their value would rise usually due to news, economic, regulatory, and other events and selling them for a maximum profit before prices decline is the notion.</p>
 
 <p>The method and timing of an investor's purchase decision are mostly determined by their investment philosophy, potential gains, and the level of risk they are willing to accept in the deal.</p>
 
